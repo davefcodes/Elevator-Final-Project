@@ -6,13 +6,17 @@ This Arduino-powered project aims to build and understand the workings of an ele
 ## Objective
 The project's primary objective is to gain practical insight into elevator mechanisms, translating theoretical knowledge into a real-world application through Arduino programming and hardware integration.
 
-![System Design](images/System_Design.png)
+![Physical Elevator](images/Physical_Elevator.png)
 
-*System Design of the Arduino Powered Elevator*
+*Physical Elevator of the Arduino Powered Elevator*
 
 ![AutoCAD Design](images/AUTOCAD_Elevator.png)
 
 *AutoCAD design of the Arduino Powered Elevator*
+
+![System Design](images/System_Design.png)
+
+*System Design of the Arduino Powered Elevator*
 
 ## Hardware Requirements
 - Arduino Board (Uno, Mega)
